@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.f712626b.css",
+    "main.js": "/reactapp/static/js/main.e4d5f185.js",
+    "static/media/FB_IMG_jpg": "/reactapp/static/media/FB_IMG_16800024668697408.3a49ad39d187b4dea1ec.jpg",
+    "static/media/FB_IMG_ (2).jpg": "/reactapp/static/media/FB_IMG_16773087534975203 (2).5bba3f53a12f922f6a23.jpg",
+    "static/media/Draggon Ball.jpg": "/reactapp/static/media/Draggon Ball.b0567d521dca0fac2393.jpg",
+    "static/media/cacarot.jpg": "/reactapp/static/media/cacarot.17a2a648843e341bfa10.jpg",
+    "static/media/Boruto.jpg": "/reactapp/static/media/Boruto.8efd510e8f3d3b3c0bfe.jpg",
+    "static/media/One Piece.jpg": "/reactapp/static/media/One Piece.38a3df2f55a0b1b93421.jpg",
+    "static/media/onepiece.jpg": "/reactapp/static/media/onepiece.5434721b4a70a2029156.jpg",
+    "static/media/Legence.jpg": "/reactapp/static/media/Legence.71bc52245fba106e2150.jpg",
+    "static/media/draggon.jpg": "/reactapp/static/media/draggon.151f10f1a70e08361c30.jpg",
+    "static/media/Hunter.jpg": "/reactapp/static/media/Hunter.8c4311651cbbbbb3df57.jpg",
+    "static/media/Naruto.jpg": "/reactapp/static/media/Naruto.81df3931e2c6035f466b.jpg",
+    "static/media/titan.jpg": "/reactapp/static/media/titan.a7e20b86b63d56e246a0.jpg",
+    "static/media/Demon Slayer.jpg": "/reactapp/static/media/Demon Slayer.077a348eaa9b487d4916.jpg",
+    "static/media/Hajime.jpg": "/reactapp/static/media/Hajime.476cc45a1d01d93499b2.jpg",
+    "static/media/Nicky Larson.jpg": "/reactapp/static/media/Nicky Larson.1a0b3b5477d55f9e34af.jpg",
+    "static/media/Hunterx.jpg": "/reactapp/static/media/Hunterx.e8ad6fe7ab296b7324be.jpg",
+    "static/media/one.jpg": "/reactapp/static/media/one.c8e0df87e92ef5facb8c.jpg",
+    "static/media/Fullmetal.jpg": "/reactapp/static/media/Fullmetal.a5469456c5b21161af91.jpg",
+    "static/media/Onizuka.jpg": "/reactapp/static/media/Onizuka.824d08ccbcad7ca2dd7d.jpg",
+    "index.html": "/reactapp/index.html",
+    "main.f712626b.css.map": "/reactapp/static/css/main.f712626b.css.map",
+    "main.e4d5f185.js.map": "/reactapp/static/js/main.e4d5f185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f712626b.css",
+    "static/js/main.e4d5f185.js"
+  ]
+}
