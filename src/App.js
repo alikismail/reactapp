@@ -9,9 +9,9 @@ return(
         <Router>    
             <Header  />
               <Routes>
-              <Route path='/V' element={<Popular/>}/>
-              <Route path='/' element={<Home/>}/>   
-              <Route path='/G'  element={<Games/>}/>
+              <Route path='V' element={<Popular/>}/>
+              <Route path='' element={<Home/>}/>   
+              <Route path='G'  element={<Games/>}/>
             </Routes>
         </Router>  
     </>
