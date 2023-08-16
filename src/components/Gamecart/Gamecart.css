@@ -1,0 +1,44 @@
+.game-cart{
+    
+      padding: 8px;
+      background-color: rgb(255, 255, 255);
+      margin:10px;
+      height:max-content;
+      max-width: 200px;
+      border-radius: 15px;
+}
+.img-game{
+
+      background-position: center;
+      background-size: cover;
+      border-radius: 10px;
+      width:100%;
+      min-width: 150px;
+      min-height: 200px;
+      height: auto;
+      margin-bottom: 10px;
+}
+.watch{
+      position: relative;
+
+}
+.but-install{
+      cursor: pointer;
+      color: beige;
+      position: absolute;
+      right: 5px;
+      bottom: -20px;
+      border-radius: 20px;
+      width: 50px;
+      background-color: rgb(0, 0, 0);
+
+}
+p{
+      font-size: 15px;
+      font-weight: 700;
+}
+h4{
+      color: rgb(255, 95, 3);
+      font-size: 18px;
+      font-weight: 600;
+}

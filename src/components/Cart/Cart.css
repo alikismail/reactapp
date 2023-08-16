@@ -1,0 +1,42 @@
+.Cart{
+    
+      padding: 5px;
+      background-color: rgb(255, 255, 255);
+      margin:10px;
+      height: max-content;
+      border-radius: 15px;
+      
+}
+.img{
+   
+   
+      border-radius: 10px;
+      width:100%;
+      height:auto ;
+      margin-bottom: 10px;
+}
+.watch{
+      position: relative;
+
+}
+.but{
+      cursor: pointer;
+      color: beige;
+      position: absolute;
+      right: 5px;
+     
+      border-radius: 20px;
+      width: 50px;
+      background-color: rgb(0, 0, 0);
+
+}
+p{
+      font-size: 15px;
+      font-weight: 700;
+
+}
+h4{
+      color: rgb(255, 95, 3);
+      font-size: 18px;
+      font-weight: 600;
+}
