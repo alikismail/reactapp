@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.f712626b.css",
-    "main.js": "/reactapp/static/js/main.e4d5f185.js",
+    "main.css": "/reactapp/static/css/main.8d97d1c2.css",
+    "main.js": "/reactapp/static/js/main.332fcfd6.js",
     "static/media/FB_IMG_jpg": "/reactapp/static/media/FB_IMG_16800024668697408.3a49ad39d187b4dea1ec.jpg",
     "static/media/FB_IMG_ (2).jpg": "/reactapp/static/media/FB_IMG_16773087534975203 (2).5bba3f53a12f922f6a23.jpg",
     "static/media/Draggon Ball.jpg": "/reactapp/static/media/Draggon Ball.b0567d521dca0fac2393.jpg",
@@ -22,11 +22,11 @@
     "static/media/Fullmetal.jpg": "/reactapp/static/media/Fullmetal.a5469456c5b21161af91.jpg",
     "static/media/Onizuka.jpg": "/reactapp/static/media/Onizuka.824d08ccbcad7ca2dd7d.jpg",
     "index.html": "/reactapp/index.html",
-    "main.f712626b.css.map": "/reactapp/static/css/main.f712626b.css.map",
-    "main.e4d5f185.js.map": "/reactapp/static/js/main.e4d5f185.js.map"
+    "main.8d97d1c2.css.map": "/reactapp/static/css/main.8d97d1c2.css.map",
+    "main.332fcfd6.js.map": "/reactapp/static/js/main.332fcfd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f712626b.css",
-    "static/js/main.e4d5f185.js"
+    "static/css/main.8d97d1c2.css",
+    "static/js/main.332fcfd6.js"
   ]
 }
